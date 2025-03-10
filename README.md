@@ -1,3 +1,14 @@
+# Ketcher bug example
+
+Example app to demonstrate https://github.com/epam/ketcher/issues/6579.
+
+To run:
+
+```
+yarn
+yarn dev
+```
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
