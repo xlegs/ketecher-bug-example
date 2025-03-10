@@ -1,6 +1,6 @@
 # Ketcher bug example
 
-Example app to demonstrate https://github.com/epam/ketcher/issues/6579.
+Example app to demonstrate https://github.com/epam/ketcher/issues/6579. Clicking on "Save to molecule list" should print a molfile representation of the molecule to the console.
 
 To run:
 
